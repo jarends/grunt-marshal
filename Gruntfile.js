@@ -1,11 +1,3 @@
-/*
- * grunt-marshal
- * https://github.com/JOA/grunt-marshal
- *
- * Copyright (c) 2015 Jan-Olaf Arends
- * Licensed under the MIT license.
- */
-
 'use strict';
 
 module.exports = function(grunt) {
