@@ -1,6 +1,6 @@
 # grunt-marshal
 
-> Manges typescript dependencies.
+> Manages typescript dependencies.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
