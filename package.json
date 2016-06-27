@@ -3,38 +3,29 @@
     "description": "Manages typescript dependencies.",
     "version": "0.1.2",
     "homepage": "https://github.com/jarends/grunt-marshal",
-    "author":
-    {
+    "author": {
         "name": "Jan-Olaf Arends",
         "email": "jan.arends@definitely.eu"
     },
-    "repository":
-    {
+    "repository": {
         "type": "git",
         "url": "git://github.com/jarends/grunt-marshal.git"
     },
-    "bugs":
-    {
+    "bugs": {
         "url": "https://github.com/jarends/grunt-marshal/issues"
     },
     "license": "MIT",
-    "engines":
-    {
+    "engines": {
         "node": ">= 0.8.0"
     },
-    "peerDependencies":
-    {
+    "peerDependencies": {
+        "grunt": ">=0.4.0"
+    },
+    "dependencies": {},
+    "devDependencies": {
         "grunt": "~0.4.5"
     },
-    "dependencies":
-    {
-    },
-    "devDependencies":
-    {
-        "grunt": "~0.4.5"
-    },
-    "keywords":
-    [
+    "keywords": [
         "gruntplugin"
     ]
 }
